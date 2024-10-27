@@ -28,9 +28,8 @@ The goal is to provide insights that can help businesses assess potential terror
 - **Data Gaps and Analytical Limitations**: Merging the GTD and DJIA datasets resulted in data gaps, particularly when aligning on date variables. This incomplete dataset limited the accuracy and scope of insights, particularly for time-sensitive trends in terrorism. Visualisation limitations, such as stack plots that obscured smaller values, further complicated the interpretation of lesser-proportion trends, and the lack of refined clustering restricted the clarity of terrorism patterns in different regions over time.
 
 ![Region](results/figures/region.png)
-![Attack_Type](results/figures/attack types.png)
-
-
+![Attack_Type](results/figures/attack-types.png)
+![Target_Type](results/figures/target-types.png)
 
 - **Economic Indicator Insufficiency**: The DJIA alone did not capture the full spectrum of economic trends influencing terrorism. Terrorism is a multifaceted phenomenon influenced by numerous political, social, and economic variables that the DJIA does not fully encapsulate.
 
