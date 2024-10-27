@@ -22,7 +22,16 @@ The goal is to provide insights that can help businesses assess potential terror
 
 ## Key Findings
 - **Positive Correlation between DJIA price and the frequency of terrorist incidents**: The regression analysis found a statistically significant positive correlation between DJIA price and the frequency of terrorist incidents, with a Pearson correlation coefficient of 0.5105 and a p-value of 0.000. However, the R-squared value of 0.261 suggests that the DJIA explains only 26.1% of the variability in terrorism frequency, indicating a weak model fit and the presence of other influential factors beyond economic performance as represented by DJIA.
+
+![Correlation](results/figures/regression.png)
+
 - **Data Gaps and Analytical Limitations**: Merging the GTD and DJIA datasets resulted in data gaps, particularly when aligning on date variables. This incomplete dataset limited the accuracy and scope of insights, particularly for time-sensitive trends in terrorism. Visualisation limitations, such as stack plots that obscured smaller values, further complicated the interpretation of lesser-proportion trends, and the lack of refined clustering restricted the clarity of terrorism patterns in different regions over time.
+
+![Region](results/figures/region.png)
+![Attack_Type](results/figures/attack types.png)
+
+
+
 - **Economic Indicator Insufficiency**: The DJIA alone did not capture the full spectrum of economic trends influencing terrorism. Terrorism is a multifaceted phenomenon influenced by numerous political, social, and economic variables that the DJIA does not fully encapsulate.
 
 ## Used Datasets
