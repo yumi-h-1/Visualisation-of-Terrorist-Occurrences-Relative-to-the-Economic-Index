@@ -1,6 +1,6 @@
 # Visualisation of Terrorist Occurrences Relative to the Economic Index
 ## Project Overview
-The aim of this project is to analyse patterns of terrorism in relation to global economic trends from 2000 to 2021. Specifically, it seeks to understand how fluctuations in the economy such as periods of economic boom or recession—correlate with changes in terrorist activity. By examining the timing and frequency of terrorist incidents alongside economic indicators, such as the Dow Jones Industrial Average, the study aims to:
+The aim of this project is to analyse patterns of terrorism in relation to global economic trends from 2000 to 2021. Specifically, it seeks to understand how fluctuations in the economy such as periods of economic boom or recession correlate with changes in terrorist activity. By examining the timing and frequency of terrorist incidents alongside economic indicators, such as the Dow Jones Industrial Average, the project aims to:
 1. Identify any relationships between economic cycles (booms and recessions) and terrorist activity.
 2. Determine if specific patterns in terrorism can be observed before, during, or after economic shifts.
 3. Assess whether terrorist incidents increase during economic upturns or downturns.
