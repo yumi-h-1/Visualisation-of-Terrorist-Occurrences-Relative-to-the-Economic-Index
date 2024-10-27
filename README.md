@@ -7,7 +7,7 @@ The aim of this project is to analyse patterns of terrorism in relation to globa
 
 The goal is to provide insights that can help businesses assess potential terrorist threats when operating in different economic conditions, both domestically and internationally.
 
-## Project Structure
+## Project Files
 - **Data**: Cleaned data is stored in the `data/` and raw data is in the `data/raw` folder.
 - **Notebooks**: The notebook for data cleaning is located in the `notebooks/` folder.
 - **Results**: Visualisations can be found in the `results/figures` folder.
